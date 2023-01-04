@@ -1,0 +1,290 @@
+2023-01-04 21:53:13,926 [main] INFO Valuelabs - Invoked chrome browser
+2023-01-04 21:53:19,840 [main] INFO Valuelabs - User is about to select English langauge
+2023-01-04 21:53:22,846 [main] INFO Valuelabs - User has selected English langauge
+2023-01-04 21:53:22,863 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKuwait test method is started-------
+2023-01-04 21:53:22,963 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 21:53:24,522 [main] INFO Valuelabs - User has selected Kuwait country
+2023-01-04 21:53:24,853 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 21:53:24,854 [main] INFO Valuelabs - lite Subscription's price is 1.2
+2023-01-04 21:53:24,855 [main] INFO Valuelabs - lite Subscription's currency is KWD/month
+2023-01-04 21:53:24,982 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 21:53:24,983 [main] INFO Valuelabs - classic Subscription's price is 2.5
+2023-01-04 21:53:24,984 [main] INFO Valuelabs - classic Subscription's currency is KWD/month
+2023-01-04 21:53:25,099 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 21:53:25,100 [main] INFO Valuelabs - premium Subscription's price is 4.8
+2023-01-04 21:53:25,100 [main] INFO Valuelabs - premium Subscription's currency is KWD/month
+2023-01-04 21:53:25,102 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKuwait test method is Passed-------
+2023-01-04 21:53:25,110 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForBahrain test method is started-------
+2023-01-04 21:53:25,196 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 21:53:26,872 [main] INFO Valuelabs - User has selected Bahrain country
+2023-01-04 21:53:26,955 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 21:53:26,955 [main] INFO Valuelabs - lite Subscription's price is 2
+2023-01-04 21:53:26,955 [main] INFO Valuelabs - lite Subscription's currency is BHD/month
+2023-01-04 21:53:27,122 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 21:53:27,123 [main] INFO Valuelabs - classic Subscription's price is 3
+2023-01-04 21:53:27,123 [main] INFO Valuelabs - classic Subscription's currency is BHD/month
+2023-01-04 21:53:27,209 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 21:53:27,209 [main] INFO Valuelabs - premium Subscription's price is 6
+2023-01-04 21:53:27,210 [main] INFO Valuelabs - premium Subscription's currency is BHD/month
+2023-01-04 21:53:27,210 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForBahrain test method is Passed-------
+2023-01-04 21:53:27,212 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKSA test method is started-------
+2023-01-04 21:53:27,296 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 21:53:29,077 [main] INFO Valuelabs - User has selected KSA country
+2023-01-04 21:53:29,168 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 21:53:29,168 [main] INFO Valuelabs - lite Subscription's price is 15
+2023-01-04 21:53:29,168 [main] INFO Valuelabs - lite Subscription's currency is SAR/month
+2023-01-04 21:53:29,265 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 21:53:29,266 [main] INFO Valuelabs - classic Subscription's price is 25
+2023-01-04 21:53:29,266 [main] INFO Valuelabs - classic Subscription's currency is SAR/month
+2023-01-04 21:53:29,379 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 21:53:29,380 [main] INFO Valuelabs - premium Subscription's price is 60
+2023-01-04 21:53:29,380 [main] INFO Valuelabs - premium Subscription's currency is SAR/month
+2023-01-04 21:53:29,380 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKSA test method is Passed-------
+2023-01-04 21:53:29,846 [main] INFO Valuelabs - -------Test Execution is over-------
+2023-01-04 23:19:17,289 [main] INFO Valuelabs - Invoked chrome browser
+2023-01-04 23:19:26,582 [main] INFO Valuelabs - User is about to select English langauge
+2023-01-04 23:19:29,174 [main] INFO Valuelabs - User has selected English langauge
+2023-01-04 23:19:29,195 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKuwait test method is started-------
+2023-01-04 23:19:29,318 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:19:32,863 [main] INFO Valuelabs - User has selected Kuwait country
+2023-01-04 23:19:33,085 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:19:33,087 [main] INFO Valuelabs - lite Subscription's price is 1.2
+2023-01-04 23:19:33,087 [main] INFO Valuelabs - lite Subscription's currency is KWD/month
+2023-01-04 23:19:33,263 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:19:33,264 [main] INFO Valuelabs - classic Subscription's price is 2.5
+2023-01-04 23:19:33,264 [main] INFO Valuelabs - classic Subscription's currency is KWD/month
+2023-01-04 23:19:33,437 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:19:33,438 [main] INFO Valuelabs - premium Subscription's price is 4.8
+2023-01-04 23:19:33,438 [main] INFO Valuelabs - premium Subscription's currency is KWD/month
+2023-01-04 23:19:33,443 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKuwait test method is Passed-------
+2023-01-04 23:19:33,453 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForBahrain test method is started-------
+2023-01-04 23:19:33,592 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:19:37,035 [main] INFO Valuelabs - User has selected Bahrain country
+2023-01-04 23:19:37,323 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:19:37,324 [main] INFO Valuelabs - lite Subscription's price is 2
+2023-01-04 23:19:37,324 [main] INFO Valuelabs - lite Subscription's currency is BHD/month
+2023-01-04 23:19:37,455 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:19:37,455 [main] INFO Valuelabs - classic Subscription's price is 3
+2023-01-04 23:19:37,456 [main] INFO Valuelabs - classic Subscription's currency is BHD/month
+2023-01-04 23:19:37,591 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:19:37,591 [main] INFO Valuelabs - premium Subscription's price is 6
+2023-01-04 23:19:37,592 [main] INFO Valuelabs - premium Subscription's currency is BHD/month
+2023-01-04 23:19:37,592 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForBahrain test method is Passed-------
+2023-01-04 23:19:37,595 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKSA test method is started-------
+2023-01-04 23:19:37,736 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:19:39,405 [main] INFO Valuelabs - User has selected KSA country
+2023-01-04 23:19:39,556 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:19:39,557 [main] INFO Valuelabs - lite Subscription's price is 15
+2023-01-04 23:19:39,559 [main] INFO Valuelabs - lite Subscription's currency is SAR/month
+2023-01-04 23:19:39,887 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:19:39,887 [main] INFO Valuelabs - classic Subscription's price is 25
+2023-01-04 23:19:39,888 [main] INFO Valuelabs - classic Subscription's currency is SAR/month
+2023-01-04 23:19:40,031 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:19:40,032 [main] INFO Valuelabs - premium Subscription's price is 60
+2023-01-04 23:19:40,032 [main] INFO Valuelabs - premium Subscription's currency is SAR/month
+2023-01-04 23:19:40,033 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKSA test method is Passed-------
+2023-01-04 23:19:40,567 [main] INFO Valuelabs - -------Test Execution is over-------
+2023-01-04 23:21:04,942 [main] INFO Valuelabs - Invoked chrome browser
+2023-01-04 23:21:10,902 [main] INFO Valuelabs - -------validateTitleOfHomePageOfEnglishLang test method is started-------
+2023-01-04 23:21:10,927 [main] INFO Valuelabs - User is about to select English langauge
+2023-01-04 23:21:14,126 [main] INFO Valuelabs - User has selected English langauge
+2023-01-04 23:21:14,148 [main] INFO Valuelabs - -------validateTitleOfHomePageOfEnglishLang test method is Passed-------
+2023-01-04 23:21:16,046 [main] INFO Valuelabs - Invoked chrome browser
+2023-01-04 23:21:23,014 [main] INFO Valuelabs - -------validateLiteSubscripForKSA test method is started-------
+2023-01-04 23:21:23,019 [main] INFO Valuelabs - Looking for 'Lite' Scription
+2023-01-04 23:21:43,091 [main] INFO Valuelabs - -------validateLiteSubscripForKSAtest method is Failed-------
+2023-01-04 23:21:45,527 [main] INFO Valuelabs - Invoked chrome browser
+2023-01-04 23:21:51,936 [main] INFO Valuelabs - User is about to select English langauge
+2023-01-04 23:21:54,926 [main] INFO Valuelabs - User has selected English langauge
+2023-01-04 23:21:54,929 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKuwait test method is started-------
+2023-01-04 23:21:55,077 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:21:57,016 [main] INFO Valuelabs - User has selected Kuwait country
+2023-01-04 23:21:57,162 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:21:57,164 [main] INFO Valuelabs - lite Subscription's price is 1.2
+2023-01-04 23:21:57,165 [main] INFO Valuelabs - lite Subscription's currency is KWD/month
+2023-01-04 23:21:57,316 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:21:57,317 [main] INFO Valuelabs - classic Subscription's price is 2.5
+2023-01-04 23:21:57,317 [main] INFO Valuelabs - classic Subscription's currency is KWD/month
+2023-01-04 23:21:57,633 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:21:57,633 [main] INFO Valuelabs - premium Subscription's price is 4.8
+2023-01-04 23:21:57,633 [main] INFO Valuelabs - premium Subscription's currency is KWD/month
+2023-01-04 23:21:57,634 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKuwait test method is Passed-------
+2023-01-04 23:21:57,639 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForBahrain test method is started-------
+2023-01-04 23:21:57,797 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:21:59,777 [main] INFO Valuelabs - User has selected Bahrain country
+2023-01-04 23:22:00,149 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:22:00,150 [main] INFO Valuelabs - lite Subscription's price is 2
+2023-01-04 23:22:00,151 [main] INFO Valuelabs - lite Subscription's currency is BHD/month
+2023-01-04 23:22:00,308 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:22:00,309 [main] INFO Valuelabs - classic Subscription's price is 3
+2023-01-04 23:22:00,310 [main] INFO Valuelabs - classic Subscription's currency is BHD/month
+2023-01-04 23:22:00,441 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:22:00,441 [main] INFO Valuelabs - premium Subscription's price is 6
+2023-01-04 23:22:00,442 [main] INFO Valuelabs - premium Subscription's currency is BHD/month
+2023-01-04 23:22:00,442 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForBahrain test method is Passed-------
+2023-01-04 23:22:00,445 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKSA test method is started-------
+2023-01-04 23:22:00,575 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:22:02,737 [main] INFO Valuelabs - User has selected KSA country
+2023-01-04 23:22:02,884 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:22:02,884 [main] INFO Valuelabs - lite Subscription's price is 15
+2023-01-04 23:22:02,886 [main] INFO Valuelabs - lite Subscription's currency is SAR/month
+2023-01-04 23:22:03,055 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:22:03,055 [main] INFO Valuelabs - classic Subscription's price is 25
+2023-01-04 23:22:03,057 [main] INFO Valuelabs - classic Subscription's currency is SAR/month
+2023-01-04 23:22:03,211 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:22:03,212 [main] INFO Valuelabs - premium Subscription's price is 60
+2023-01-04 23:22:03,212 [main] INFO Valuelabs - premium Subscription's currency is SAR/month
+2023-01-04 23:22:03,213 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKSA test method is Passed-------
+2023-01-04 23:22:03,716 [main] INFO Valuelabs - -------Test Execution is over-------
+2023-01-04 23:24:27,904 [main] INFO Valuelabs - Invoked chrome browser
+2023-01-04 23:24:34,237 [main] INFO Valuelabs - -------validateLiteSubscripForKSA test method is started-------
+2023-01-04 23:24:34,250 [main] INFO Valuelabs - Looking for 'Lite' Scription
+2023-01-04 23:24:54,321 [main] INFO Valuelabs - -------validateLiteSubscripForKSAtest method is Failed-------
+2023-01-04 23:24:55,073 [main] INFO Valuelabs - -------Test Execution is over-------
+2023-01-04 23:35:00,171 [main] INFO Valuelabs - Invoked chrome browser
+2023-01-04 23:35:07,298 [main] INFO Valuelabs - User is about to select English langauge
+2023-01-04 23:35:10,763 [main] INFO Valuelabs - User has selected English langauge
+2023-01-04 23:35:10,790 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKuwait test method is started-------
+2023-01-04 23:35:10,994 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:35:13,713 [main] INFO Valuelabs - User has selected Kuwait country
+2023-01-04 23:35:13,939 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:35:13,939 [main] INFO Valuelabs - lite Subscription's price is 1.2
+2023-01-04 23:35:13,941 [main] INFO Valuelabs - lite Subscription's currency is KWD/month
+2023-01-04 23:35:14,137 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:35:14,137 [main] INFO Valuelabs - classic Subscription's price is 2.5
+2023-01-04 23:35:14,138 [main] INFO Valuelabs - classic Subscription's currency is KWD/month
+2023-01-04 23:35:14,305 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:35:14,306 [main] INFO Valuelabs - premium Subscription's price is 4.8
+2023-01-04 23:35:14,307 [main] INFO Valuelabs - premium Subscription's currency is KWD/month
+2023-01-04 23:35:14,310 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKuwait test method is Passed-------
+2023-01-04 23:35:14,321 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForBahrain test method is started-------
+2023-01-04 23:35:14,454 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:35:17,928 [main] INFO Valuelabs - User has selected Bahrain country
+2023-01-04 23:35:18,073 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:35:18,075 [main] INFO Valuelabs - lite Subscription's price is 2
+2023-01-04 23:35:18,075 [main] INFO Valuelabs - lite Subscription's currency is BHD/month
+2023-01-04 23:35:18,215 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:35:18,216 [main] INFO Valuelabs - classic Subscription's price is 3
+2023-01-04 23:35:18,216 [main] INFO Valuelabs - classic Subscription's currency is BHD/month
+2023-01-04 23:35:18,350 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:35:18,351 [main] INFO Valuelabs - premium Subscription's price is 6
+2023-01-04 23:35:18,351 [main] INFO Valuelabs - premium Subscription's currency is BHD/month
+2023-01-04 23:35:18,352 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForBahrain test method is Passed-------
+2023-01-04 23:35:18,356 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKSA test method is started-------
+2023-01-04 23:35:18,487 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:35:20,974 [main] INFO Valuelabs - User has selected KSA country
+2023-01-04 23:35:21,130 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:35:21,131 [main] INFO Valuelabs - lite Subscription's price is 15
+2023-01-04 23:35:21,131 [main] INFO Valuelabs - lite Subscription's currency is SAR/month
+2023-01-04 23:35:21,268 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:35:21,269 [main] INFO Valuelabs - classic Subscription's price is 25
+2023-01-04 23:35:21,269 [main] INFO Valuelabs - classic Subscription's currency is SAR/month
+2023-01-04 23:35:21,412 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:35:21,412 [main] INFO Valuelabs - premium Subscription's price is 60
+2023-01-04 23:35:21,413 [main] INFO Valuelabs - premium Subscription's currency is SAR/month
+2023-01-04 23:35:21,413 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKSA test method is Passed-------
+2023-01-04 23:35:21,908 [main] INFO Valuelabs - -------Test Execution is over-------
+2023-01-04 23:37:25,061 [main] INFO Valuelabs - Invoked chrome browser
+2023-01-04 23:37:31,160 [main] INFO Valuelabs - -------validateTitleOfHomePageOfEnglishLang test method is started-------
+2023-01-04 23:37:31,187 [main] INFO Valuelabs - User is about to select English langauge
+2023-01-04 23:37:34,490 [main] INFO Valuelabs - User has selected English langauge
+2023-01-04 23:37:34,516 [main] INFO Valuelabs - -------validateTitleOfHomePageOfEnglishLang test method is Passed-------
+2023-01-04 23:37:36,471 [main] INFO Valuelabs - Invoked chrome browser
+2023-01-04 23:37:43,667 [main] INFO Valuelabs - -------validateLiteSubscripForKSA test method is started-------
+2023-01-04 23:37:43,672 [main] INFO Valuelabs - Looking for 'Lite' Scription
+2023-01-04 23:38:03,740 [main] INFO Valuelabs - -------validateLiteSubscripForKSAtest method is Failed-------
+2023-01-04 23:38:06,046 [main] INFO Valuelabs - Invoked chrome browser
+2023-01-04 23:38:12,410 [main] INFO Valuelabs - User is about to select English langauge
+2023-01-04 23:38:15,336 [main] INFO Valuelabs - User has selected English langauge
+2023-01-04 23:38:15,338 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKuwait test method is started-------
+2023-01-04 23:38:15,490 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:38:17,386 [main] INFO Valuelabs - User has selected Kuwait country
+2023-01-04 23:38:17,529 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:38:17,532 [main] INFO Valuelabs - lite Subscription's price is 1.2
+2023-01-04 23:38:17,532 [main] INFO Valuelabs - lite Subscription's currency is KWD/month
+2023-01-04 23:38:17,816 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:38:17,816 [main] INFO Valuelabs - classic Subscription's price is 2.5
+2023-01-04 23:38:17,817 [main] INFO Valuelabs - classic Subscription's currency is KWD/month
+2023-01-04 23:38:17,989 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:38:17,989 [main] INFO Valuelabs - premium Subscription's price is 4.8
+2023-01-04 23:38:17,991 [main] INFO Valuelabs - premium Subscription's currency is KWD/month
+2023-01-04 23:38:17,992 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKuwait test method is Passed-------
+2023-01-04 23:38:17,997 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForBahrain test method is started-------
+2023-01-04 23:38:18,158 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:38:20,096 [main] INFO Valuelabs - User has selected Bahrain country
+2023-01-04 23:38:20,210 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:38:20,211 [main] INFO Valuelabs - lite Subscription's price is 2
+2023-01-04 23:38:20,211 [main] INFO Valuelabs - lite Subscription's currency is BHD/month
+2023-01-04 23:38:20,373 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:38:20,374 [main] INFO Valuelabs - classic Subscription's price is 3
+2023-01-04 23:38:20,375 [main] INFO Valuelabs - classic Subscription's currency is BHD/month
+2023-01-04 23:38:20,731 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:38:20,731 [main] INFO Valuelabs - premium Subscription's price is 6
+2023-01-04 23:38:20,732 [main] INFO Valuelabs - premium Subscription's currency is BHD/month
+2023-01-04 23:38:20,732 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForBahrain test method is Passed-------
+2023-01-04 23:38:20,737 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKSA test method is started-------
+2023-01-04 23:38:20,877 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:38:23,101 [main] INFO Valuelabs - User has selected KSA country
+2023-01-04 23:38:23,241 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:38:23,242 [main] INFO Valuelabs - lite Subscription's price is 15
+2023-01-04 23:38:23,243 [main] INFO Valuelabs - lite Subscription's currency is SAR/month
+2023-01-04 23:38:23,392 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:38:23,393 [main] INFO Valuelabs - classic Subscription's price is 25
+2023-01-04 23:38:23,393 [main] INFO Valuelabs - classic Subscription's currency is SAR/month
+2023-01-04 23:38:23,542 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:38:23,542 [main] INFO Valuelabs - premium Subscription's price is 60
+2023-01-04 23:38:23,542 [main] INFO Valuelabs - premium Subscription's currency is SAR/month
+2023-01-04 23:38:23,543 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKSA test method is Passed-------
+2023-01-04 23:38:23,987 [main] INFO Valuelabs - -------Test Execution is over-------
+2023-01-04 23:40:47,700 [main] INFO Valuelabs - Invoked chrome browser
+2023-01-04 23:40:55,024 [main] INFO Valuelabs - -------validateTitleOfHomePageOfEnglishLang test method is started-------
+2023-01-04 23:40:55,042 [main] INFO Valuelabs - User is about to select English langauge
+2023-01-04 23:40:57,200 [main] INFO Valuelabs - User has selected English langauge
+2023-01-04 23:40:57,251 [main] INFO Valuelabs - -------validateTitleOfHomePageOfEnglishLang test method is Passed-------
+2023-01-04 23:40:59,212 [main] INFO Valuelabs - Invoked chrome browser
+2023-01-04 23:41:05,141 [main] INFO Valuelabs - -------validateLiteSubscripForKSA test method is started-------
+2023-01-04 23:41:05,147 [main] INFO Valuelabs - Looking for 'Lite' Scription
+2023-01-04 23:41:25,213 [main] INFO Valuelabs - -------validateLiteSubscripForKSAtest method is Failed-------
+2023-01-04 23:41:27,609 [main] INFO Valuelabs - Invoked chrome browser
+2023-01-04 23:41:33,478 [main] INFO Valuelabs - User is about to select English langauge
+2023-01-04 23:41:36,459 [main] INFO Valuelabs - User has selected English langauge
+2023-01-04 23:41:36,461 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKuwait test method is started-------
+2023-01-04 23:41:36,620 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:41:38,462 [main] INFO Valuelabs - User has selected Kuwait country
+2023-01-04 23:41:38,606 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:41:38,608 [main] INFO Valuelabs - lite Subscription's price is 1.2
+2023-01-04 23:41:38,608 [main] INFO Valuelabs - lite Subscription's currency is KWD/month
+2023-01-04 23:41:38,756 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:41:38,757 [main] INFO Valuelabs - classic Subscription's price is 2.5
+2023-01-04 23:41:38,757 [main] INFO Valuelabs - classic Subscription's currency is KWD/month
+2023-01-04 23:41:39,046 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:41:39,046 [main] INFO Valuelabs - premium Subscription's price is 4.8
+2023-01-04 23:41:39,046 [main] INFO Valuelabs - premium Subscription's currency is KWD/month
+2023-01-04 23:41:39,048 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKuwait test method is Passed-------
+2023-01-04 23:41:39,052 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForBahrain test method is started-------
+2023-01-04 23:41:39,191 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:41:41,028 [main] INFO Valuelabs - User has selected Bahrain country
+2023-01-04 23:41:41,152 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:41:41,152 [main] INFO Valuelabs - lite Subscription's price is 2
+2023-01-04 23:41:41,152 [main] INFO Valuelabs - lite Subscription's currency is BHD/month
+2023-01-04 23:41:41,434 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:41:41,434 [main] INFO Valuelabs - classic Subscription's price is 3
+2023-01-04 23:41:41,435 [main] INFO Valuelabs - classic Subscription's currency is BHD/month
+2023-01-04 23:41:41,584 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:41:41,585 [main] INFO Valuelabs - premium Subscription's price is 6
+2023-01-04 23:41:41,585 [main] INFO Valuelabs - premium Subscription's currency is BHD/month
+2023-01-04 23:41:41,586 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForBahrain test method is Passed-------
+2023-01-04 23:41:41,590 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKSA test method is started-------
+2023-01-04 23:41:41,733 [main] INFO Valuelabs - User has clicked on country selection option
+2023-01-04 23:41:43,483 [main] INFO Valuelabs - User has selected KSA country
+2023-01-04 23:41:43,605 [main] INFO Valuelabs - lite Subscription is present
+2023-01-04 23:41:43,605 [main] INFO Valuelabs - lite Subscription's price is 15
+2023-01-04 23:41:43,605 [main] INFO Valuelabs - lite Subscription's currency is SAR/month
+2023-01-04 23:41:43,880 [main] INFO Valuelabs - classic Subscription is present
+2023-01-04 23:41:43,880 [main] INFO Valuelabs - classic Subscription's price is 25
+2023-01-04 23:41:43,886 [main] INFO Valuelabs - classic Subscription's currency is SAR/month
+2023-01-04 23:41:44,019 [main] INFO Valuelabs - premium Subscription is present
+2023-01-04 23:41:44,020 [main] INFO Valuelabs - premium Subscription's price is 60
+2023-01-04 23:41:44,020 [main] INFO Valuelabs - premium Subscription's currency is SAR/month
+2023-01-04 23:41:44,021 [main] INFO Valuelabs - -------ValidatePlanPriceCurrencyForKSA test method is Passed-------
+2023-01-04 23:41:44,551 [main] INFO Valuelabs - -------Test Execution is over-------
